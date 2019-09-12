@@ -8,4 +8,4 @@
 - [ ] Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour, Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He
 - [ ] mixup: Beyond Empirical Risk Minimization,Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
 - [ ] Support Vector Guided Softmax Loss for Face Recognition, Xiaobo Wang, Shuo Wang, Shifeng Zhang, Tianyu Fu, Hailin Shi, Tao Mei 
-
+- [ ] Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift, Sergey IoffeGoogle Inc.,sioffe@google.comChristian SzegedyGoogle Inc.,szegedy@google.com 
