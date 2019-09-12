@@ -5,5 +5,7 @@
 - [x] ArcFace: Additive Angular Margin Loss for Deep Face Recognition, Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou
 - [x] PRIMES is in P, Manindra Agrawal, Neeraj Kayal, Nitin Saxena
 - [ ] NormFace: L2 Hypersphere Embedding for Face Verification, Feng Wang, Xiang Xiang, Jian Cheng, Alan L. Yuille
- 
+- [ ] Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour, Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, Kaiming He
+- [ ] mixup: Beyond Empirical Risk Minimization,Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
+- [ ] Support Vector Guided Softmax Loss for Face Recognition, Xiaobo Wang, Shuo Wang, Shifeng Zhang, Tianyu Fu, Hailin Shi, Tao Mei 
 
