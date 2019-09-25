@@ -9,4 +9,10 @@
 - [x] mixup: Beyond Empirical Risk Minimization,Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
 - [x] Support Vector Guided Softmax Loss for Face Recognition, Xiaobo Wang, Shuo Wang, Shifeng Zhang, Tianyu Fu, Hailin Shi, Tao Mei 
 - [x] Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift, Sergey IoffeGoogle Inc.,sioffe@google.comChristian SzegedyGoogle Inc.,szegedy@google.com
-- [ ] Large-Margin Softmax Loss for Convolutional Neural Networks, Weiyang Liu, Yandong Wen, Zhiding Yu, Meng Yang 
+- [ ] Large-Margin Softmax Loss for Convolutional Neural Networks, Weiyang Liu, Yandong Wen, Zhiding Yu, Meng Yang
+- [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi
+- [ ] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices, Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun
+- [ ] Squeeze-and-Excitation Networks, Jie Hu, Li Shen, Samuel Albanie, Gang Sun, Enhua Wu
+- [ ] ImageNet Classification with Deep ConvolutionalNeural Networks, Alex Krizhevsky University of Toronto kriz@cs.utoronto.ca 
+- [ ] Very Deep Convolutional Networks for Large-Scale Image Recognition, Karen Simonyan, Andrew Zisserman
+- [ ] On the importance of initialization and momentum in deep learning, Ilya Sutskever...
