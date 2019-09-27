@@ -16,3 +16,4 @@
 - [ ] ImageNet Classification with Deep ConvolutionalNeural Networks, Alex Krizhevsky University of Toronto kriz@cs.utoronto.ca 
 - [ ] Very Deep Convolutional Networks for Large-Scale Image Recognition, Karen Simonyan, Andrew Zisserman
 - [ ] On the importance of initialization and momentum in deep learning, Ilya Sutskever...
+- [ ] CutMix: Regularization Strategy to Train Strong Classifierswith Localizable Features, ..
