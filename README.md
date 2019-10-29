@@ -17,3 +17,6 @@
 - [ ] Very Deep Convolutional Networks for Large-Scale Image Recognition, Karen Simonyan, Andrew Zisserman
 - [ ] On the importance of initialization and momentum in deep learning, Ilya Sutskever...
 - [ ] CutMix: Regularization Strategy to Train Strong Classifierswith Localizable Features, ..
+- [ ] Yang Deep Clustering by Gaussian Mixture Variational Autoencoders With Graph Embedding ICCV 2019
+- [ ] Controllable Artistic Text Style Transfer via Shape-Matching GAN
+- [ ] Disentangled Image Matting
